@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+body{
+  background: #7b78af !important;
+}
+.nav_main{
+  background-color: #9793cd;
+}
+.nav_main nav div div ul li a{
+  color: white;
+  font-size: 18px;
+}
+.nav_main nav div div ul li a:hover{
+  color: rgb(109, 106, 159);
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgb(18, 38, 110);
+}
+.nav_main nav div div ul li{
+   text-align: center; 
+}
+.nav_main nav div img{
+cursor: pointer;
+}
